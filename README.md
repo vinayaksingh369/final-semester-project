@@ -29,8 +29,7 @@ This is the code for Customer Segmentation Project made for [EXPOSYS DATA LABS](
 ## Clone Repository
 Clone this Repository using,
 
-	git clone https://github.com/mayursrt/customer-segmentation-using-k-means.git
-
+	git clone git@github.com:vinayaksingh369/final-semester-project.git
 
 ## Usage
 Install `jupyter` from [here](http://jupyter.readthedocs.io/en/latest/install.html) or use
@@ -64,3 +63,5 @@ Install missing dependencies using,
 	pip install pandas numpy matplotlib seaborn sklearn
 
 
+## GOOGLE COLAB 
+ [HERE]https://colab.research.google.com/drive/1Iysypf0AqGOFEZ44vBXrlBqv0SLAvlIy?usp=sharing
